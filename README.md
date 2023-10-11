@@ -9,5 +9,8 @@ Esta aplicación tiene varios objetivos:
 - Carga perezosa de imágenes
 - Y más
 
-El objetivo final es ir creando una aplicación que expandiremos
-en la siguiente sección.
+El objetivo final es ir creando una aplicación que expandiremos en la siguiente sección.
+
+
+<img width="813" alt="Screenshot 2023-10-05 at 11 04 03 AM" src="https://github.com/manuels-bts/ReactNative-Pokedex/assets/116088500/8b17372c-e5fb-4e9d-910e-4586bf65e071">
+
