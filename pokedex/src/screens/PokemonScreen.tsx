@@ -1,8 +1,7 @@
 import { StackScreenProps } from '@react-navigation/stack'
 import React from 'react'
-import { ActivityIndicator, Image, StyleSheet, Text, View } from 'react-native'
+import { ActivityIndicator, Image, StyleSheet, Text, View, TouchableOpacity } from 'react-native'
 import { RootStackParams } from '../navigators/NavigationStack'
-import { TouchableOpacity } from 'react-native-gesture-handler';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { FadeInImage } from '../components/FadeInImage';
 import { usePokemon } from '../hooks/usePokemon';
